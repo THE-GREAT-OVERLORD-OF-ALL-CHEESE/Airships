@@ -1,0 +1,20 @@
+{
+  "name": "Airships",
+  "description": "Adds AI airships to the game!",
+  "dll_file": "Airships.dll",
+  "last_edit": 637595400970679006,
+  "pub_id": "",
+  "json_version": "",
+  "version": "",
+  "tagline": "",
+  "repository": "",
+  "is_public": false,
+  "unlisted": false,
+  "preview_image": "",
+  "web_preview_image": "",
+  "dependencies": [
+    "CustomAssetClasses.dll"
+  ],
+  "mod_dependencies": null,
+  "ContentType": 1
+}
